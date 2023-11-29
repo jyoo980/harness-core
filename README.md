@@ -114,7 +114,7 @@ Official steps to install docker on mac: [docker.com](https://docs.docker.com/de
 #### Some Bazel Best Practices you can follow before building harness-core locally.
 `https://harness.atlassian.net/wiki/spaces/BT/pages/1910047082/Bazel+best+practices+for+faster+and+efficient+builds.`
 
-1. Clone form git repository: https://github.com/harness/harness-core.git
+1. Clone from git repository: https://github.com/harness/harness-core.git
 
    (Optional) Follow https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
    to setup your SSH keys. You can then use SSH to interact with git
